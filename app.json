@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5291415314"
+         "value": " 5077267318"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "h0daka"
+         "value": "Sivatheking_1"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to miku support than consider you made an enemy.",
@@ -61,7 +61,7 @@
       "REDIS_URL": {
          "description": "Get it from Redislabs.com",
          "required": true,
-         "value": ""
+         "value": " redis-11510.c11.us-east-1-2.ec2.cloud.redislabs.com:11510" 
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
